@@ -1,0 +1,79 @@
+body{
+    font-size: 20px;
+}
+header{
+    background-color: lightskyblue;
+    background-image: url("img/pattern.png");
+    background-repeat: repeat-x;
+    background-size:contain;
+    height: 7em; 
+}
+
+#logon1{
+    height: 7em;
+    width: 12em;
+    padding-top: 2em;
+}
+
+h1{
+    font-size: 45px;
+}
+
+#didascalia1{
+    color: #8f8f8f;
+}
+#didascalia2{
+    color: lightskyblue;
+}
+table{
+    
+    width: 100%;
+    margin: auto;
+}
+.tabella-lightskyblue{
+    background-color: lightskyblue;
+}
+
+.tabella-whitecolor{
+    background-color: white;
+}
+
+.tabella-header{
+    background-color:#007fff ;
+    color: white;
+}
+
+#bannern1{
+    width: 20%;
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    padding-left: 5rem;
+    padding-bottom: 10rem;
+    padding-right: 5rem;
+background-image: url("img/monitor.jpg");
+background-size: cover;
+}
+
+#bannern2{
+    
+    width: 20%;
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    padding-left: 5rem;
+    padding-bottom: 10rem;
+    padding-right: 5rem;
+background-image: url("img/graph.jpg");
+background-size: cover;
+}
+
+#banner-titolo{
+    padding-bottom: 5px;
+    color: #8f8f8f;
+    font-weight: bold;
+}
+
+.container{
+    margin: auto;
+}
